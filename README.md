@@ -2,4 +2,4 @@
 1. [https://github.com/NagaShivaChaitanya/23CSBT27-28/blob/main/LAB_1.ipynb]
 2. [https://github.com/NagaShivaChaitanya/23CSBT27-28/blob/main/lab_2.ipynb]
 3. [https://github.com/NagaShivaChaitanya/23CSBT27-28/blob/main/lab_3.ipynb]
-4. [https://github.com/NagaShivaChaitanya/23CSBT27-28/blob/main/house_price_predction.ipynb]
+4. [https://github.com/NagaShivaChaitanya/23CSBT27-28/blob/main/lab-4.ipynb]
