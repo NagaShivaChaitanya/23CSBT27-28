@@ -4,5 +4,4 @@
 3. [https://github.com/NagaShivaChaitanya/23CSBT27-28/blob/main/lab_3.ipynb]
 4. [https://github.com/NagaShivaChaitanya/23CSBT27-28/blob/main/lab-4.ipynb]
 5. [https://github.com/NagaShivaChaitanya/23CSBT27-28/blob/main/lab-5.ipynb]
-6. [https://github.com/NagaShivaChaitanya/23CSBT27-28/blob/main/teachnook_major_project.ipynb]
-7. 
+6.  
