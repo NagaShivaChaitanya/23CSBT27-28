@@ -8,3 +8,4 @@
 7. [https://github.com/NagaShivaChaitanya/23CSBT27-28/blob/main/lab_7.ipynb]
 8. [https://github.com/NagaShivaChaitanya/23CSBT27-28/blob/main/lab_8.ipynb]
 9. [https://github.com/NagaShivaChaitanya/23CSBT27-28/blob/main/lab_9.ipynb]
+10. [https://github.com/NagaShivaChaitanya/23CSBT27-28/blob/main/lab_10.ipynb]
